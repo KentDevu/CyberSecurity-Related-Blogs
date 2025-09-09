@@ -153,7 +153,7 @@ Linux is no longer a barrier—it's now my **cybersecurity toolkit**. 🛠️
 
 ---
 
-✅ **Next Room Coming Soon:** *Introduction to Web Application Security* (where I'll learn about finding and exploiting web vulnerabilities).  
+✅ **Next Room Coming Soon:** *Windows and AD Fundamentals* (where I'll learn about windows and AD fundamentals).  
 
 ---
 
